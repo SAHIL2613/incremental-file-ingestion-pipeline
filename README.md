@@ -68,9 +68,8 @@ incremental-file-ingestion-pipeline/
 │   ├── 04_Gold_Aggregation.py
 │   ├── 05_Audit_Monitoring.py
 │   └── 06_Maintenance.py
-│
-├── README.md
-└── .gitignore
+│── README.md
+
 ```
 
 ---
